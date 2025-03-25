@@ -10,10 +10,8 @@ For additional reading, checkout wasmCloud's guide to [composition](https://wasm
 
 ## Containers
 
-The goal was to use state-of-the-art container orchestration that includes all the necessary features a large enterprise needs, including scale-to-zero. This is why a comparison between wasmCloud and Knative was created. Check out the Knative setup at: [ricochet/knativepay](github.com/ricochet/knativepay).
+The goal was to use state-of-the-art container orchestration that includes all the necessary features a large enterprise needs, including scale-to-zero. This is why a comparison between wasmCloud and Knative was created. Check out the Knative setup at [knativepay](https://github.com/ricochet/knativepay).
 
 ## Components
 
-Enterprises rely on key architectural patterns to ensure success. Our demo of wasmpay showcases how platform engineering teams can manage and evolve capabilities independently of developer code by using a component that serves as a platform harness. It also highlights a platform model that integrates workload identity, enabling secure operations across multi-cloud environments.
-
-[cosmonic-labs/wasmpay](github.com/cosmonic-labs/wasmpay)
+Enterprises rely on key architectural patterns to ensure success. Our demo of [wasmpay](github.com/cosmonic-labs/wasmpay) showcases how platform engineering teams can manage and evolve capabilities independently of developer code by using a component that serves as a platform harness. It also highlights a platform model that integrates workload identity, enabling secure operations across multi-cloud environments.
